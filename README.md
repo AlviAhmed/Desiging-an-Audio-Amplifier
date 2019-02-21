@@ -1,10 +1,23 @@
 # Desiging-an-Audio-Amplifier
-Goal of this is to design an audio amplifier by building it from the ground up using calculations, simulations and finally experimentation 
 
-Even though I posted calculations of both the LM741 and the LM318, in the end I decided to go with and simulate and experiment with 
-LM741, since it was the cheapest of the 2.  
+Desiging and optimizing an audo amplifier circuit. 
 
-Later on down the road, I will apply this type of circuit to amplify the sound from a Electret Microphone.  
+More specifically, designing the circuit in such a way that the slew rate and cutoff frequency limitations of the op-amp do  
+not affect the signal. Later on taking into account the DC offset when working with microphones.
 
-Github: https://hackaday.io/project/164026-desiging-an-audio-amplifier
+The specifications of the circuit are:
+Vi = 10mv (pk-pk)
+Vo = 5V (pk-pk)
+Desired Bandwidth = 100Hz - 20kHz
+Aclo = 500 V/V
+
+The audio amplifier will either be made from an LM741 or LM318, eventually I chose to use 2 LM741's, since LM741s are what I had on  
+hand.
+
+Initially, tests and simulations as well as lab work was done for the LM741 circuit. As seen in the oscilloscope screenshots the circuit works well to amplify the signal within the desired bandwidth (100Hz - 20kHz).
+
+The next step of this project would be to use an actual microphone and amplify its sound so that it is audible in a small speaker.
+
+Microphone planning to use => Electret microphone, Model #: 07-9
+Speaker planning to use => McBridge AZ-30s 
 
