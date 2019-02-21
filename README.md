@@ -21,3 +21,4 @@ The next step of this project would be to use an actual microphone and amplify i
 Microphone planning to use => Electret microphone, Model #: 07-9
 Speaker planning to use => McBridge AZ-30s 
 
+Hackaday: https://hackaday.io/project/164026-desiging-an-audio-amplifier 
