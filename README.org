@@ -37,7 +37,7 @@ Microphone planning to use => Electret microphone, Model #: 07-9
 Speaker planning to use => McBridge AZ-30s. 
 
 * Calculations of Audio Amplifier with both LM741 and LM318  
-*NOTE: For better visual clarity the equations will soon be in LaTex* 
+*NOTE: For better visual clarity the equations will soon be typed in LaTex* 
 ** For the LM741  
 
 [[file:images/LM741_calcu1.png]] 
