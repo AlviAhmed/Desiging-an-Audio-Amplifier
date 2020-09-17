@@ -27,9 +27,11 @@ Desired Bandwidth = 100Hz - 20kHz
 Aclo = 500 V/V
 
 The audio amplifier will either be made from an LM741 or LM318,
-eventually I chose to use 2 LM741's for their cheaper price.
+eventually I chose to use 2 LM741's since I only had those available
+to me at the time.
 
-Initially, tests and simulations as well as lab work was done for the LM741 circuit. As seen in the oscilloscope screenshots the circuit works well to amplify the signal within the desired bandwidth (100Hz - 20kHz).
+
+Tests and simulations as well as lab work were done for the LM741 circuit. As seen in the oscilloscope screenshots the circuit works well to amplify the signal within the desired bandwidth (100Hz - 20kHz).
 
 The next step of this project would be to use an actual microphone and amplify its sound so that it is audible in a small speaker.
 
