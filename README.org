@@ -14,7 +14,7 @@ amplifier. At the same time the DC imperfections of the LM741 Op-Amp
 were investigated and strategies to minimize the overall DC effects
 were implemented. 
 
-Comparisions of different types of Op-Amps were also made, mainly
+Comparisons of different types of Op-Amps were also made, mainly
 between the LM741 and the LM318. The frequency response and the slew
 rate limitations of each Op-Amp were investigated. 
 
@@ -70,7 +70,7 @@ this time I only have LM741 op-amps at my disposal.
 ** Input Voltage (10mV (pk-pk) @ 20kHz):   
 
 [[file:images/input_vol_10mv_741.png]] 
-
+	
 ** Input Voltage (5V (pk-pk) @ 20kHz):   
 
 [[file:images/input_vol_5v_741.png]] 
